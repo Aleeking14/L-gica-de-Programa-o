@@ -1,0 +1,6 @@
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Programa03MediaAluno\Programa03MediaAluno\bin\Debug\Programa03MediaAluno.exe.config
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Programa03MediaAluno\Programa03MediaAluno\bin\Debug\Programa03MediaAluno.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Programa03MediaAluno\Programa03MediaAluno\bin\Debug\Programa03MediaAluno.pdb
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Programa03MediaAluno\Programa03MediaAluno\obj\Debug\Programa03MediaAluno.csprojResolveAssemblyReference.cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Programa03MediaAluno\Programa03MediaAluno\obj\Debug\Programa03MediaAluno.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Programa03MediaAluno\Programa03MediaAluno\obj\Debug\Programa03MediaAluno.pdb
