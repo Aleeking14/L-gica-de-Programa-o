@@ -1,0 +1,6 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa07MenuCalculadora\Programa07MenuCalculadora\bin\Debug\Programa07MenuCalculadora.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa07MenuCalculadora\Programa07MenuCalculadora\bin\Debug\Programa07MenuCalculadora.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa07MenuCalculadora\Programa07MenuCalculadora\bin\Debug\Programa07MenuCalculadora.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa07MenuCalculadora\Programa07MenuCalculadora\obj\Debug\Programa07MenuCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa07MenuCalculadora\Programa07MenuCalculadora\obj\Debug\Programa07MenuCalculadora.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa07MenuCalculadora\Programa07MenuCalculadora\obj\Debug\Programa07MenuCalculadora.pdb
