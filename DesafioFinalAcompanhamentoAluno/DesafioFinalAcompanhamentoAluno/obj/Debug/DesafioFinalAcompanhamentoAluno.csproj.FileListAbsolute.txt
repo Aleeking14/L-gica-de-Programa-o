@@ -1,0 +1,6 @@
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\DesafioFinalAcompanhamentoAluno\DesafioFinalAcompanhamentoAluno\bin\Debug\DesafioFinalAcompanhamentoAluno.exe.config
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\DesafioFinalAcompanhamentoAluno\DesafioFinalAcompanhamentoAluno\bin\Debug\DesafioFinalAcompanhamentoAluno.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\DesafioFinalAcompanhamentoAluno\DesafioFinalAcompanhamentoAluno\bin\Debug\DesafioFinalAcompanhamentoAluno.pdb
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\DesafioFinalAcompanhamentoAluno\DesafioFinalAcompanhamentoAluno\obj\Debug\DesafioFinalAcompanhamentoAluno.csprojResolveAssemblyReference.cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\DesafioFinalAcompanhamentoAluno\DesafioFinalAcompanhamentoAluno\obj\Debug\DesafioFinalAcompanhamentoAluno.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\DesafioFinalAcompanhamentoAluno\DesafioFinalAcompanhamentoAluno\obj\Debug\DesafioFinalAcompanhamentoAluno.pdb
