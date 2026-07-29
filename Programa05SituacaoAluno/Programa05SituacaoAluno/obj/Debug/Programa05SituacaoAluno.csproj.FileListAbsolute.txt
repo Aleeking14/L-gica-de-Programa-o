@@ -1,0 +1,6 @@
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Programa05SituacaoAluno\Programa05SituacaoAluno\bin\Debug\Programa05SituacaoAluno.exe.config
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Programa05SituacaoAluno\Programa05SituacaoAluno\bin\Debug\Programa05SituacaoAluno.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Programa05SituacaoAluno\Programa05SituacaoAluno\bin\Debug\Programa05SituacaoAluno.pdb
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Programa05SituacaoAluno\Programa05SituacaoAluno\obj\Debug\Programa05SituacaoAluno.csprojResolveAssemblyReference.cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Programa05SituacaoAluno\Programa05SituacaoAluno\obj\Debug\Programa05SituacaoAluno.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Programa05SituacaoAluno\Programa05SituacaoAluno\obj\Debug\Programa05SituacaoAluno.pdb
