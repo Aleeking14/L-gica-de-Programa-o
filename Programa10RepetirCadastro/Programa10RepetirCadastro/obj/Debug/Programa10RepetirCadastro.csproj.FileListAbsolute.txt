@@ -1,0 +1,6 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa10RepetirCadastro\Programa10RepetirCadastro\bin\Debug\Programa10RepetirCadastro.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa10RepetirCadastro\Programa10RepetirCadastro\bin\Debug\Programa10RepetirCadastro.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa10RepetirCadastro\Programa10RepetirCadastro\bin\Debug\Programa10RepetirCadastro.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa10RepetirCadastro\Programa10RepetirCadastro\obj\Debug\Programa10RepetirCadastro.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa10RepetirCadastro\Programa10RepetirCadastro\obj\Debug\Programa10RepetirCadastro.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa10RepetirCadastro\Programa10RepetirCadastro\obj\Debug\Programa10RepetirCadastro.pdb
