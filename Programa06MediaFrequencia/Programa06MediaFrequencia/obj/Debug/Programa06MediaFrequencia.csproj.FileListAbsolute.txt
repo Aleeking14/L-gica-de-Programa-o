@@ -1,0 +1,6 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa06MediaFrequencia\Programa06MediaFrequencia\bin\Debug\Programa06MediaFrequencia.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa06MediaFrequencia\Programa06MediaFrequencia\bin\Debug\Programa06MediaFrequencia.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa06MediaFrequencia\Programa06MediaFrequencia\bin\Debug\Programa06MediaFrequencia.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa06MediaFrequencia\Programa06MediaFrequencia\obj\Debug\Programa06MediaFrequencia.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa06MediaFrequencia\Programa06MediaFrequencia\obj\Debug\Programa06MediaFrequencia.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa06MediaFrequencia\Programa06MediaFrequencia\obj\Debug\Programa06MediaFrequencia.pdb
