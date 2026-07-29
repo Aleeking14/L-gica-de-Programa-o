@@ -1,0 +1,6 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa08Tabuada\Programa08Tabuada\bin\Debug\Programa08Tabuada.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa08Tabuada\Programa08Tabuada\bin\Debug\Programa08Tabuada.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa08Tabuada\Programa08Tabuada\bin\Debug\Programa08Tabuada.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa08Tabuada\Programa08Tabuada\obj\Debug\Programa08Tabuada.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa08Tabuada\Programa08Tabuada\obj\Debug\Programa08Tabuada.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa08Tabuada\Programa08Tabuada\obj\Debug\Programa08Tabuada.pdb
