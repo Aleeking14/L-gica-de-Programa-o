@@ -1,0 +1,6 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa09ControleSenha\Programa09ControleSenha\bin\Debug\Programa09ControleSenha.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa09ControleSenha\Programa09ControleSenha\bin\Debug\Programa09ControleSenha.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa09ControleSenha\Programa09ControleSenha\bin\Debug\Programa09ControleSenha.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa09ControleSenha\Programa09ControleSenha\obj\Debug\Programa09ControleSenha.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa09ControleSenha\Programa09ControleSenha\obj\Debug\Programa09ControleSenha.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Programa09ControleSenha\Programa09ControleSenha\obj\Debug\Programa09ControleSenha.pdb
